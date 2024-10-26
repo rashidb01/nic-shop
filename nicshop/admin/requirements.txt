@@ -1,1 +1,1 @@
-Django>=4.0
+fastapi==1.1.*
